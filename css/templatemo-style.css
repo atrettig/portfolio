@@ -430,7 +430,7 @@ footer hr
 
 .portfolio-cont{
     display: flex;
-    border: solid rgb(199, 54, 17);
+    /* border: solid rgb(199, 54, 17); */
     border-radius: 25px;
     width: 60%;
     margin: auto;
